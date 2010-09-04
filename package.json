@@ -1,0 +1,14 @@
+{
+  "name": "world-db",
+  "description": "Highly effecient database for large tilemas",
+  "tags": ["game","tilemap","database","world"],
+  "version": "0.0.1",
+  "author": "Tim Caswell <tim@creationix.com>",
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/creationix/world-db.git"
+  },
+  "bugs": "http://github.com/creationix/world-db/issues",
+  "engines": ["node >= 0.2.0"],
+  "main": "lib/world-db.js"
+}
